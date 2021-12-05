@@ -1,9 +1,9 @@
 ### Hi there, I'm Florian Oeser 👋
 I made my childhood dream come true and landed a job in the gamedev industry :)
 
-🔭 I’m currently working on everything related to automation, build engineering and deployment orchestation
+🔭 I’m currently working on everything related to automation, build engineering and deployment orchestration
 
-🌱 I’m currently learning web development :D
+🌱 Teamcity enthusiast
 
 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/florianoeser/)
 
